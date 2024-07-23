@@ -1,0 +1,6 @@
+@Web_Api_VersionControl_NoUse_NuGet_HostAddress = http://localhost:5115
+
+GET {{Web_Api_VersionControl_NoUse_NuGet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
